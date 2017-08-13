@@ -23,7 +23,7 @@
 					
    <key>url</key>
 					
-   <string>http://dl.mhwgame.com:885/DownLoad/phone/ios/mhw.ipa</string>
+   <string>http://s1.mhwgame.com:885/DownLoad/phone/ios/mhw.ipa</string>
 				
 </dict>
 				
@@ -35,7 +35,7 @@
 					
    <key>url</key>
 					
-   <string>http://dl.mhwgame.com:885/DownLoad/phone/ios/displayImage_mhw.png</string>
+   <string>http://s1.mhwgame.com:885/DownLoad/phone/ios/displayImage_mhw.png</string>
 				
 </dict>
 				
@@ -47,7 +47,7 @@
 					
    <key>url</key>
 					
-   <string>http://dl.mhwgame.com:885/DownLoad/phone/ios/displayImage_mhwgame.png</string>
+   <string>http://s1.mhwgame.com:885/DownLoad/phone/ios/displayImage_mhwgame.png</string>
 				
 </dict>
 			
